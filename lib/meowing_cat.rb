@@ -1,5 +1,3 @@
-require 'pry'
-
 class Cat
 
 attr_accessor :name
@@ -9,6 +7,4 @@ def meow
 end
     
 end
-
-binding.pry
 ## code your solution here. 
